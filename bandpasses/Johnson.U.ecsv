@@ -11,7 +11,7 @@
 #   unit: angstrom
 # - name: flux_0
 #   datatype: float32
-#   unit: dimensionless_unscaled
+#   unit: ''
 spectral_axis   flux_0
 2942.0          0.000
 2954.8          0.009
