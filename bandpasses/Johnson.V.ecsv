@@ -9,10 +9,10 @@
 # - name: spectral_axis
 #   datatype: float32
 #   unit: angstrom
-# - name: throughput
+# - name: flux_0
 #   datatype: float32
 #   unit: dimensionless_unscaled
-spectral_axis   throughput
+spectral_axis   flux_0
 4718.2          0.000
 4748.4          0.013
 4778.6          0.027

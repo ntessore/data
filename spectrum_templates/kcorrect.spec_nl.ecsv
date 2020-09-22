@@ -11,22 +11,22 @@
 # - name: spectral_axis
 #   unit: angstrom
 #   datatype: float32
-# - name: template_0
+# - name: flux_0
 #   unit: erg s-1 cm-2 angstrom-1
 #   datatype: float32
-# - name: template_1
+# - name: flux_1
 #   unit: erg s-1 cm-2 angstrom-1
 #   datatype: float32
-# - name: template_2
+# - name: flux_2
 #   unit: erg s-1 cm-2 angstrom-1
 #   datatype: float32
-# - name: template_3
+# - name: flux_3
 #   unit: erg s-1 cm-2 angstrom-1
 #   datatype: float32
-# - name: template_4
+# - name: flux_4
 #   unit: erg s-1 cm-2 angstrom-1
 #   datatype: float32
-spectral_axis template_0 template_1 template_2 template_3 template_4
+spectral_axis flux_0 flux_1 flux_2 flux_3 flux_4
 600.25757 2.1248604e-14 2.5917315e-08 6.4721676e-13 3.2022087e-13 5.576684e-13
 600.7729 2.1125681e-14 2.5950504e-08 6.445e-13 3.1843376e-13 5.5636566e-13
 601.2887 2.0972378e-14 2.601102e-08 6.412192e-13 3.1621182e-13 5.549419e-13
