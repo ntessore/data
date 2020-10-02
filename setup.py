@@ -10,7 +10,7 @@ setuptools.setup(
     description='data files for the SkyPy library',
     long_description=long_description,
     long_description_content_type='text/markdown',
-    url='https://github.com/skypyproject/data',
+    url='https://github.com/skypyproject/skypy-data',
     packages=[
         'skypy-data.bandpasses',
         'skypy-data.spectrum_templates',
