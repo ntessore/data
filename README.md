@@ -1,6 +1,8 @@
-skypy-data
+DEPRECATED
 ==========
 
-Data files for use with the [SkyPy library].
+This repository stored data files used by the [SkyPy library] before v0.4.
 
-[SkyPy library]: https://github.com/skypyproject/skypy
+It will be removed in the near future.
+
+[SkyPy library]: https://github.com/skypyproject/skypy/
